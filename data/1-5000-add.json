@@ -1,0 +1,3408 @@
+{
+    "nft":[
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/43",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/44",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/90",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/93",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/115",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/150",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/166",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/211",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/222",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/277",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/282",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/317",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/321",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/322",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/323",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/324",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/333",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/338",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/342",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/350",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/364",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/382",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/407",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/433",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/441",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/442",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/461",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/471",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/518",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/520",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/530",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/542",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/558",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/559",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/569",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/581",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/606",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/611",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/633",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/643",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/682",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/692",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/701",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/738",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/745",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/780",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/788",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/805",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/806",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/875",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/946",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/954",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/967",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/978",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/987",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1031",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1032",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1053",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1075",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1079",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1096",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1097",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1111",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1126",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1150",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1165",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1171",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1271",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1278",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1316",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1331",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1399",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1418",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1455",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1471",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1484",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1485",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1525",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1594",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1608",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1675",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1788",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1798",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1839",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1875",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1890",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1903",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1936",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1946",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/1978",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2021",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2045",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2074",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2086",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2110",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2132",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2252",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2267",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2334",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2348",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2350",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2377",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2388",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2408",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2416",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2430",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2433",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2437",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2444",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2453",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2536",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2538",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2571",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2591",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2603",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2606",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2610",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2613",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2633",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2646",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2675",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2693",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2727",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2731",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2738",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2771",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2795",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2797",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2821",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2834",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2844",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2873",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2875",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2914",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2919",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2923",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2942",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2944",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2948",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2965",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2971",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2979",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2981",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2984",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/2988",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3002",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3003",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3057",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3063",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3068",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3077",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3087",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3100",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3149",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3168",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3179",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3202",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3212",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3221",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3227",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3308",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3314",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3322",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3334",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3337",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3338",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3344",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3400",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3410",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3415",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3431",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3444",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3451",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3483",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3495",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3519",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3528",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3544",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3551",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3564",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3637",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3641",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3695",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3699",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3747",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3748",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3754",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3784",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3828",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3853",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3855",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3863",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3896",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3910",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3955",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3981",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/3996",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4005",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4011",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4031",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4040",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4077",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4080",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4095",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4097",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4144",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4190",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4191",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4221",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4239",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4249",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4309",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4338",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4568",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4570",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4624",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4633",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4635",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4638",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4650",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4676",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4700",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4723",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4749",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4766",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4838",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+,
+    {
+        "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/4896",
+        "supply": 1,
+        "blockchain": "Polygon",
+        "sale_type": "",
+        "price": 0.002,
+        "method": "",
+        "duration": [
+            "08-03-2022 1:00",
+            "31-08-2022 1:00"
+        ],
+        "specific_buyer": "",
+        "quantity": 1
+    }
+]
+}

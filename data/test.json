@@ -1,0 +1,132 @@
+{
+    "nft": [
+            
+        {
+            "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/9167",
+            "supply": 1,
+            "blockchain": "Polygon",
+            "sale_type": "",
+            "price": 0.002,
+            "method": "",
+            "duration": [
+                "08-03-2022 1:00",
+                "31-08-2022 1:00"
+            ],
+            "specific_buyer": "",
+            "quantity": 1
+        },
+        {
+            "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/9168",
+            "supply": 1,
+            "blockchain": "Polygon",
+            "sale_type": "",
+            "price": 0.002,
+            "method": "",
+            "duration": [
+                "08-03-2022 1:00",
+                "31-08-2022 1:00"
+            ],
+            "specific_buyer": "",
+            "quantity": 1
+        },
+        {
+            "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/9169",
+            "supply": 1,
+            "blockchain": "Polygon",
+            "sale_type": "",
+            "price": 0.002,
+            "method": "",
+            "duration": [
+                "08-03-2022 1:00",
+                "31-08-2022 1:00"
+            ],
+            "specific_buyer": "",
+            "quantity": 1
+        },
+        {
+            "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/9170",
+            "supply": 1,
+            "blockchain": "Polygon",
+            "sale_type": "",
+            "price": 0.002,
+            "method": "",
+            "duration": [
+                "08-03-2022 1:00",
+                "31-08-2022 1:00"
+            ],
+            "specific_buyer": "",
+            "quantity": 1
+        },
+        {
+            "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/9171",
+            "supply": 1,
+            "blockchain": "Polygon",
+            "sale_type": "",
+            "price": 0.002,
+            "method": "",
+            "duration": [
+                "08-03-2022 1:00",
+                "31-08-2022 1:00"
+            ],
+            "specific_buyer": "",
+            "quantity": 1
+        },
+        {
+            "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/9172",
+            "supply": 1,
+            "blockchain": "Polygon",
+            "sale_type": "",
+            "price": 0.002,
+            "method": "",
+            "duration": [
+                "08-03-2022 1:00",
+                "31-08-2022 1:00"
+            ],
+            "specific_buyer": "",
+            "quantity": 1
+        },
+        {
+            "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/9173",
+            "supply": 1,
+            "blockchain": "Polygon",
+            "sale_type": "",
+            "price": 0.002,
+            "method": "",
+            "duration": [
+                "08-03-2022 1:00",
+                "31-08-2022 1:00"
+            ],
+            "specific_buyer": "",
+            "quantity": 1
+        },
+        {
+            "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/9174",
+            "supply": 1,
+            "blockchain": "Polygon",
+            "sale_type": "",
+            "price": 0.002,
+            "method": "",
+            "duration": [
+                "08-03-2022 1:00",
+                "31-08-2022 1:00"
+            ],
+            "specific_buyer": "",
+            "quantity": 1
+        },
+        {
+            "nft_url": "https://opensea.io/assets/matic/0x4f6a59a078a024f02b4259dba4c4b552722093b5/9175",
+            "supply": 1,
+            "blockchain": "Polygon",
+            "sale_type": "",
+            "price": 0.002,
+            "method": "",
+            "duration": [
+                "08-03-2022 1:00",
+                "31-08-2022 1:00"
+            ],
+            "specific_buyer": "",
+            "quantity": 1
+        }
+
+    ]
+}
